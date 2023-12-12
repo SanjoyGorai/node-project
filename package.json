@@ -1,0 +1,22 @@
+{
+  "name": "node-practic",
+  "version": "1.0.1",
+  "description": "this is a node practic project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjoyGorai/node-project.git"
+  },
+  "keywords": [
+    "node-app"
+  ],
+  "author": "Sanjoy Gorai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanjoyGorai/node-project/issues"
+  },
+  "homepage": "https://github.com/SanjoyGorai/node-project#readme"
+}
