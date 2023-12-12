@@ -4,7 +4,7 @@
   "description": "this is a node practic project",
   "main": "index.js",
   "scripts": {
-    "test": "test_node"
+    "start": "nodemon"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/SanjoyGorai/node-project/issues"
   },
-  "homepage": "https://github.com/SanjoyGorai/node-project#readme"
+  "homepage": "https://github.com/SanjoyGorai/node-project#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
